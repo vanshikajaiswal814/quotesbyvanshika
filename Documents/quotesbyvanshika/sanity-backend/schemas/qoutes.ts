@@ -14,6 +14,11 @@ export default {
         type:'string',
         title:'Quotes',
 
+    },
+    {
+      name:'firebaseId',
+      type:'Integer',
+      title:'FirebaseId',
     }
 
 ]
