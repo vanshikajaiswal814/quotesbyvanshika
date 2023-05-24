@@ -6,7 +6,7 @@ const Introduction = () => {
     <div>
       <div className="container">
         <div className="title text-center">
-          <h2 class="text-uppercase my-5">
+          <h2 className="text-uppercase my-5">
             Warm Welcome to quotes by vanshika{" "}
           </h2>
         </div>
